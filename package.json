@@ -1,7 +1,6 @@
 {
   "name": "to-do-app",
   "version": "1.0.0",
-  "description": "",
   "main": "server.js",
   "dependencies": {
     "express": "^4.17.1",
@@ -16,6 +15,15 @@
     "start": "node server.js"
   },
   "keywords": [],
-  "author": "",
-  "license": "ISC"
+  "author": "Geraldy",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/geraldy1st/to-do-app.git"
+  },
+  "bugs": {
+    "url": "https://github.com/geraldy1st/to-do-app/issues"
+  },
+  "homepage": "https://github.com/geraldy1st/to-do-app#readme",
+  "description": ""
 }
