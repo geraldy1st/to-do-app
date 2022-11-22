@@ -1,2 +1,4 @@
 # to-do-app
-login info. username: gee / password: lplplp
+login info:
+username: gee
+password: lplplp
